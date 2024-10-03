@@ -1,6 +1,4 @@
 from selenium import webdriver
-import json
-import re
 import smtplib
 import email
 import email.mime.application
